@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="./css/style.css" />
 <marquee><div><a style="background-color: none;color: #66ccff;font-size: 35px;">欢迎来到TeaBoss外链网盘,下面是文件列表,点击左边图片可下载可跳转预览,右方按钮分别可以删除和复制文件链接..请勿上传有违中华人民共和国相关法律规定的图片,后台有上传记录,如有发现,将上报给有关部门.</a></div></marquee>
   <input id="_ef" type="file" style="visibility:hidden;height: 0px" />
   <div class="droppable">
