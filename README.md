@@ -1,6 +1,4 @@
-<!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="UTF-8">
   <title>TeaBoss外链</title>
